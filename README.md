@@ -4,17 +4,6 @@
 
 ### 💻 Backend Developer | 🗄️ Database Enthusiast
 
-<p>
-  <a href="https://www.linkedin.com/in/gustavo-avelino-a74958261/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Avelino-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:gustavoavelinomail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=avelinoxz&style=for-the-badge&color=blue" alt="Profile views"/>
-
 </div>
 
 ---
@@ -29,6 +18,8 @@ I'm focused on **Backend Development, Databases and Software Engineering**, alwa
 🔧 Technical background in Mechatronics
 💻 Focused on Backend Development
 🗄️ Interested in Databases and Data Engineering
+📱 Mobile and Web Application Developer
+🕶️ Exploring AR/VR technologies with Unity & ARCore
 📚 Always learning new technologies and improving my development skills
 
 ---
@@ -86,15 +77,6 @@ The project focuses on processing and analyzing healthcare-related data, includi
 `Python` `Pandas` `SQLite` `FastAPI` `Vue.js` `Docker`
 
 ---
-
-### 🍫 Cacau Show
-
-E-commerce application developed with **Django**, including product management, shopping cart and order functionality.
-
-**Technologies:**
-
-`Python` `Django` `SQLite` `REST API`
-
 ---
 
 ### 🌡️ IoT Telemetry
@@ -109,27 +91,28 @@ The project explores different approaches to time-series and distributed data st
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avelinoxz&show_icons=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avelinoxz&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avelinoxz&layout=compact&langs_count=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avelinoxz&theme=github_dark"/>
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=avelinoxz" alt="GitHub Streak"/>
+<img width="100%" src="https://github-readme-activity-graph-blue-psi.vercel.app/graph?username=avelinoxz&theme=github-compact&hide_border=true"/>
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
+
 ---
+
 
 ## 💻 What I'm Currently Focused On
 
@@ -159,25 +142,20 @@ I'm currently focused on improving my skills in:
 ---
 
 ## 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gustavo-avelino-a74958261/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-avelino-a74958261/)
 
-<a href="mailto:gustavoavelinomail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_gustaads)
 
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoavelinomail@gmail.com)
+
 
 ---
 
 <div align="center">
 
-### 💡 "Building, learning and improving one project at a time."
+### 💡 "Do or do not. There is no try"
 
-⭐ Feel free to explore my repositories!
 
 </div>
