@@ -52,19 +52,24 @@ I'm focused on **Backend Development, Databases and Software Engineering**, alwa
 
 ---
 ### ⭐ Badges & Achievements
-<div align="center">
-
-<img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" height="110">
-<br>
-Google Computing Foundations: Cloud Computing
-
-</div>
 
 <div align="center">
 
-<img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="110">
-<br>
-Cisco Network Technician Carrer Path
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" height="110">
+      <br>
+      <b>Google Computing Foundations:<br>Cloud Computing</b>
+    </td>
+
+    <td align="center">
+      <img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="110">
+      <br>
+      <b>Cisco Network Technician<br>Career Path</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
