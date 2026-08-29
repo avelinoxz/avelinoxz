@@ -15,11 +15,17 @@ I'm **Gustavo Avelino**, a Software Development student from **São Paulo, Brazi
 I'm focused on **Backend Development, Databases and Software Engineering**, always looking to improve my knowledge by building practical projects.
 
 🎓 Software Development Multiplatform student
+<br>
 🔧 Technical background in Mechatronics
+<br>
 💻 Focused on Backend Development
+<br>
 🗄️ Interested in Databases and Data Engineering
+<br>
 📱 Mobile and Web Application Developer
+<br>
 🕶️ Exploring AR/VR technologies with Unity & ARCore
+<br>
 📚 Always learning new technologies and improving my development skills
 
 ---
