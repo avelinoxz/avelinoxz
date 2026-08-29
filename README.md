@@ -53,7 +53,7 @@ I'm focused on **Backend Development, Databases and Software Engineering**, alwa
 ---
 ### ⭐ Badges & Achievements
 <p>
-  <img src="https://www.skills.google/public_profiles/b8ae1dea-341d-41fa-ac04-00c9e404a352/badges/25885866" />
+  <img src="https://cdn.qwiklabs.com/Zy9km8CJD%2FO1U6WFIWwK5bb4rxWpaUZk9LAfukirJOo%3D" />
 </p>
 ---
 
