@@ -122,18 +122,6 @@ The project explores different approaches to time-series and distributed data st
 
 ## 💻 What I'm Currently Focused On
 
-```text
-Backend Development
-        ↓
-   Java / Python
-        ↓
- APIs & Systems
-        ↓
-    Databases
-        ↓
-Software Engineering
-```
-
 I'm currently focused on improving my skills in:
 
 * Backend architecture
@@ -144,6 +132,8 @@ I'm currently focused on improving my skills in:
 * NoSQL databases
 * Software Engineering
 * Docker and development environments
+* Mobile and Web Application Developer
+* Exploring AR/VR technologies with Unity & ARCore
 
 ---
 
