@@ -50,18 +50,11 @@ I'm focused on **Backend Development, Databases and Software Engineering**, alwa
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 </p>
 
-### 📊 Data & NoSQL
-
-* MySQL
-* PostgreSQL
-* SQLite
-* MongoDB
-* Redis
-* Cassandra
-* InfluxDB
-* Pandas
-* SQL
-
+---
+### ⭐ Badges & Achievements
+<p>
+  <img src="https://www.skills.google/public_profiles/b8ae1dea-341d-41fa-ac04-00c9e404a352/badges/25885866" />
+</p>
 ---
 
 ## 🚀 Featured Projects
