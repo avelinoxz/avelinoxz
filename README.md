@@ -57,10 +57,12 @@ I'm focused on **Backend Development, Databases and Software Engineering**, alwa
   <br>
   Google Computing Foundations: Cloud Computing
 </div>
+<br>
+<br>
 <div align="center">
   <img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" height="110">
   <br>
-  Cisco Network Technician Carrer Path 
+ Cisco Network Technician Carrer Path
 </div>
 
  ---
